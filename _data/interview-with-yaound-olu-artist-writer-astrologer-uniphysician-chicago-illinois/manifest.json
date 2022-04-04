@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois" ] },
+    "homepage": [
+      {
+        "id": "https://www.loc.gov/item/afc1981004_afs20638a/",
+        "type": "Text",
+        "label": { "en": [ "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.loc.gov",
+        "type": "Agent",
+        "label": { "en": [ "The Library of Congress" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 632,
+        "items": [
+          {
+            "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://apps.lib.jmu.edu/audiannotate/Yaounde_olu.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 632
+                },
+                "target": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
