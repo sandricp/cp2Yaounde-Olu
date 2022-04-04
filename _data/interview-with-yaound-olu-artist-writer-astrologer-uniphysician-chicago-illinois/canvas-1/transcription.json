@@ -1,0 +1,323 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.081963,22.129797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Chuckling]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "63.391957,65.192069"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Utensil hits table]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "67.999578,68.230787"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "80.327857,80.559066"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Whispering]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82.895904,84.357464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Tape whirring]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "84.638213,85.670388"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Plate clinks]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "125.462733,126.189385"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "187.839033,188.697804"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Utencil clinks]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "255.417487,255.665211"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "287.951591,288.94248"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Plate clacks on table]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "302.748828,303.12867"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Tape whirring]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "307.141758,308.793237"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Spoon rattling in mug]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365.653601,376.503809"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "412.208748,412.9354"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Whispering]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "481.488223,483.519543"
+        }
+      }
+    }
+  ]
+}

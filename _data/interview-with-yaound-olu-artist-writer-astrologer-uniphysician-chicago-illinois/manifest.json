@@ -23,6 +23,14 @@
         "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
         "type": "Canvas",
         "duration": 632,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+        ],
         "items": [
           {
             "id": "https://sandricp.github.io/cp2Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/paintings",
